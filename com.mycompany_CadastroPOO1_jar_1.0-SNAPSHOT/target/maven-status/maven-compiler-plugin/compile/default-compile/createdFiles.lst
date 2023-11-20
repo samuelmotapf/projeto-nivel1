@@ -1,0 +1,7 @@
+model\Pessoa.class
+model\Main.class
+model\PessoaFisica.class
+model\PessoaJuridica.class
+model\Serializable.class
+model\PessoaFisicaRepo.class
+model\PessoaJuridicaRepo.class
